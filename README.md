@@ -51,7 +51,7 @@ The model uses an XGBoost classifier trained within a pipeline that includes fea
 
 ## Results
 
-Model performance is evaluated using a confusion matrix and classification report, providing insights into precision, recall, and overall fraud detection effectiveness.
+Model performance is evaluated using a confusion matrix and classification report, providing insights into precision, recall, and overall fraud detection effectiveness. Please find the results attached.
 
 ## Authors
 
